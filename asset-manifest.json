@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dd26cd0.css",
-    "main.js": "/static/js/main.5b9cfa1c.js",
+    "main.css": "/static/css/main.39f2ccc6.css",
+    "main.js": "/static/js/main.c3a1fb67.js",
+    "static/media/MySQL.png": "/static/media/MySQL.4fe76d0c8c2cd39a2766.png",
+    "static/media/PHP.png": "/static/media/PHP.af6576a4dc8b22c5234a.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.ca8cb8503018d97bf095.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Sass.png": "/static/media/Sass.508d80026f8f15a373f4.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/Java.png": "/static/media/Java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
-    "main.7dd26cd0.css.map": "/static/css/main.7dd26cd0.css.map",
-    "main.5b9cfa1c.js.map": "/static/js/main.5b9cfa1c.js.map"
+    "main.39f2ccc6.css.map": "/static/css/main.39f2ccc6.css.map",
+    "main.c3a1fb67.js.map": "/static/js/main.c3a1fb67.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dd26cd0.css",
-    "static/js/main.5b9cfa1c.js"
+    "static/css/main.39f2ccc6.css",
+    "static/js/main.c3a1fb67.js"
   ]
 }
