@@ -34,12 +34,12 @@ const Work = () => {
               </span>
 
               <div className="pt-8 text-center">
-                <a href="https://jrweather.netlify.app"  target="_blank">
+                <a href="https://jrweather.netlify.app"   rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/JuanRugna/weather-app"  target="_blank">
+                <a href="https://github.com/JuanRugna/weather-app"   rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -59,12 +59,12 @@ const Work = () => {
               </span>
 
               <div className="pt-8 text-center">
-                <a href="https://biomountain.netlify.app"  target="_blank">
+                <a href="https://biomountain.netlify.app"   rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/JuanRugna/BioMountain"  target="_blank">
+                <a href="https://github.com/JuanRugna/BioMountain"   rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -84,12 +84,12 @@ const Work = () => {
               </span>
 
               <div className="pt-8 text-center">
-                <a href="https://jrtodolist.netlify.app"  target="_blank">
+                <a href="https://jrtodolist.netlify.app"   rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/JuanRugna/todolist" target="_blank">
+                <a href="https://github.com/JuanRugna/todolist"  rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -99,22 +99,22 @@ const Work = () => {
           </div>
           {/*Grid item 4*/}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${CalculadoraCoordenadas})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects*/}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                BioMountain 📦🌿
+                Portal calculator
               </span>
 
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://netherportalcalculator.netlify.app"  rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/JuanRugna/calculadora-coordenadas" rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -134,12 +134,12 @@ const Work = () => {
               </span>
 
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="/"  rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="/"  rel="noreferrer" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
