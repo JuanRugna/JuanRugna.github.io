@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b86c445.css",
-    "main.js": "/static/js/main.71c4ffaa.js",
+    "main.css": "/static/css/main.7194ad99.css",
+    "main.js": "/static/js/main.ef5ed338.js",
     "static/media/BioMountain.JPG": "/static/media/BioMountain.35a8deece7439299eff6.JPG",
+    "static/media/TrucksRoad.JPG": "/static/media/TrucksRoad.727c63e6be15d11ff6b3.JPG",
+    "static/media/WeatherApp.JPG": "/static/media/WeatherApp.14676cc3d8f92a8fdd5d.JPG",
     "static/media/CalculadoraCoordenadas.JPG": "/static/media/CalculadoraCoordenadas.766d5d88af66ed8f4fbc.JPG",
-    "static/media/WeatherApp.JPG": "/static/media/WeatherApp.09e6a0add25834abf4bf.JPG",
     "static/media/ToDoList.JPG": "/static/media/ToDoList.43846e0b51ca869f33e1.JPG",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/WorkImg.jpg": "/static/media/WorkImg.dc291895a20291eb4f59.jpg",
     "static/media/MySQL.png": "/static/media/MySQL.b604fb1418c2bf3d6294.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -18,11 +18,11 @@
     "static/media/Java.png": "/static/media/Java.e9b5ebe564c3e9c377e9.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.6b86c445.css.map": "/static/css/main.6b86c445.css.map",
-    "main.71c4ffaa.js.map": "/static/js/main.71c4ffaa.js.map"
+    "main.7194ad99.css.map": "/static/css/main.7194ad99.css.map",
+    "main.ef5ed338.js.map": "/static/js/main.ef5ed338.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b86c445.css",
-    "static/js/main.71c4ffaa.js"
+    "static/css/main.7194ad99.css",
+    "static/js/main.ef5ed338.js"
   ]
 }
