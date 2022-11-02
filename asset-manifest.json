@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.6b86c445.css",
-    "main.js": "/static/js/main.51407f52.js",
+    "main.js": "/static/js/main.71c4ffaa.js",
+    "static/media/BioMountain.JPG": "/static/media/BioMountain.35a8deece7439299eff6.JPG",
+    "static/media/CalculadoraCoordenadas.JPG": "/static/media/CalculadoraCoordenadas.766d5d88af66ed8f4fbc.JPG",
+    "static/media/WeatherApp.JPG": "/static/media/WeatherApp.09e6a0add25834abf4bf.JPG",
+    "static/media/ToDoList.JPG": "/static/media/ToDoList.43846e0b51ca869f33e1.JPG",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/WorkImg.jpg": "/static/media/WorkImg.dc291895a20291eb4f59.jpg",
@@ -15,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.6b86c445.css.map": "/static/css/main.6b86c445.css.map",
-    "main.51407f52.js.map": "/static/js/main.51407f52.js.map"
+    "main.71c4ffaa.js.map": "/static/js/main.71c4ffaa.js.map"
   },
   "entrypoints": [
     "static/css/main.6b86c445.css",
-    "static/js/main.51407f52.js"
+    "static/js/main.71c4ffaa.js"
   ]
 }
